@@ -1,1 +1,3 @@
+Line 1: Different modification in feature-1.
 Line 2: Modified text in feature-2.
+
